@@ -1,0 +1,76 @@
+track AV_KIF1C.NPUT2
+shortLabel AV_KIF1C.NPUT2
+longLabel AV_KIF1C.NPUT2
+type bigWig
+visibility full
+alwaysZero on
+autoScale on
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+container multiWig
+
+    track AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    shortLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    longLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    type bigWig
+    color 0,100,0
+    parent AV_KIF1C.NPUT2
+
+    track AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    shortLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    longLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    type bigWig
+    color 100,0,0
+    parent AV_KIF1C.NPUT2
+
+track AV_KIF1C.NPUT2.bb
+bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2ClFiSo.bigbed
+shortLabel AV_KIF1C.NPUT2.bb
+longLabel AV_KIF1C.NPUT2.bb
+type bigBed
+visibility full
+color 100,0,0
+parent AV_KIF1C_INPUT2_hub
+
+track AV_KIF1C_INPUT2_hub
+shortLabel AV_KIF1C_INPUT2_hub
+longLabel AV_KIF1C_INPUT2_hub
+superTrack on
+
+track AV_KIF1C.NPUT2
+shortLabel AV_KIF1C.NPUT2
+longLabel AV_KIF1C.NPUT2
+type bigWig
+visibility full
+alwaysZero on
+autoScale on
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+container multiWig
+
+    track AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    shortLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    longLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.posbw
+    type bigWig
+    color 0,100,0
+    parent AV_KIF1C.NPUT2
+
+    track AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    shortLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    longLabel AV_KIF1C.NPUT2.r-.fqTrTrU-SoMaSoCoSoV2.negbw
+    type bigWig
+    color 100,0,0
+    parent AV_KIF1C.NPUT2
+
+track AV_KIF1C.NPUT2.bb
+bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT2_hub/hg19/AV_KIF1C.NPUT2.NIL.r-.fqTrTrU-SoMaSoCoSoV2ClFiSo.bigbed
+shortLabel AV_KIF1C.NPUT2.bb
+longLabel AV_KIF1C.NPUT2.bb
+type bigBed
+visibility full
+color 100,0,0
+parent AV_KIF1C_INPUT2_hub

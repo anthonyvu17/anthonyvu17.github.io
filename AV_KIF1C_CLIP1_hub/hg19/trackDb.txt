@@ -1,0 +1,76 @@
+track AV_KIF1C.CLIP1
+shortLabel AV_KIF1C.CLIP1
+longLabel AV_KIF1C.CLIP1
+type bigWig
+visibility full
+alwaysZero on
+autoScale on
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+container multiWig
+
+    track AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    shortLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    longLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    type bigWig
+    color 0,100,0
+    parent AV_KIF1C.CLIP1
+
+    track AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    shortLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    longLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    type bigWig
+    color 100,0,0
+    parent AV_KIF1C.CLIP1
+
+track AV_KIF1C.CLIP1.bb
+bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2ClFiSo.bigbed
+shortLabel AV_KIF1C.CLIP1.bb
+longLabel AV_KIF1C.CLIP1.bb
+type bigBed
+visibility full
+color 100,0,0
+parent AV_KIF1C_CLIP1_hub
+
+track AV_KIF1C_CLIP1_hub
+shortLabel AV_KIF1C_CLIP1_hub
+longLabel AV_KIF1C_CLIP1_hub
+superTrack on
+
+track AV_KIF1C.CLIP1
+shortLabel AV_KIF1C.CLIP1
+longLabel AV_KIF1C.CLIP1
+type bigWig
+visibility full
+alwaysZero on
+autoScale on
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+container multiWig
+
+    track AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    shortLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    longLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.posbw
+    type bigWig
+    color 0,100,0
+    parent AV_KIF1C.CLIP1
+
+    track AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    shortLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    longLabel AV_KIF1C.CLIP1.r-.fqTrTrU-SoMaSoCoSoMeV2.negbw
+    type bigWig
+    color 100,0,0
+    parent AV_KIF1C.CLIP1
+
+track AV_KIF1C.CLIP1.bb
+bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_CLIP1_hub/hg19/AV_KIF1C.CLIP1.---.r-.fqTrTrU-SoMaSoCoSoMeV2ClFiSo.bigbed
+shortLabel AV_KIF1C.CLIP1.bb
+longLabel AV_KIF1C.CLIP1.bb
+type bigBed
+visibility full
+color 100,0,0
+parent AV_KIF1C_CLIP1_hub

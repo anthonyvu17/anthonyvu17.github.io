@@ -1,0 +1,5 @@
+hub AV_KIF1C_INPUT1_hub
+shortLabel AV_KIF1C_INPUT1_hub
+longLabel AV_KIF1C_INPUT1_hub
+genomesFile AV_KIF1C_INPUT1_hub.genomes.txt
+email adomissy@ucsd.edu
