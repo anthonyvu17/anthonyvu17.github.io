@@ -1,39 +1,3 @@
-track AV_KIF1C.NPUT1
-shortLabel AV_KIF1C.NPUT1
-longLabel AV_KIF1C.NPUT1
-type bigWig
-visibility full
-alwaysZero on
-autoScale on
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-container multiWig
-
-    track AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.posbw
-    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT1_hub/hg19/AV_KIF1C.NPUT1.NIL.r-.fqTrTrU-SoMaSoCoSoV2.posbw
-    shortLabel AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.posbw
-    longLabel AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.posbw
-    type bigWig
-    color 0,100,0
-    parent AV_KIF1C.NPUT1
-
-    track AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.negbw
-    bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT1_hub/hg19/AV_KIF1C.NPUT1.NIL.r-.fqTrTrU-SoMaSoCoSoV2.negbw
-    shortLabel AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.negbw
-    longLabel AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.negbw
-    type bigWig
-    color 100,0,0
-    parent AV_KIF1C.NPUT1
-
-track AV_KIF1C.NPUT1.bb
-bigDataUrl http://anthonyvu17.github.io//AV_KIF1C_INPUT1_hub/hg19/AV_KIF1C.NPUT1.NIL.r-.fqTrTrU-SoMaSoCoSoV2ClFiSo.bigbed
-shortLabel AV_KIF1C.NPUT1.bb
-longLabel AV_KIF1C.NPUT1.bb
-type bigBed
-visibility full
-color 100,0,0
-parent AV_KIF1C_INPUT1_hub
-
 track AV_KIF1C_INPUT1_hub
 shortLabel AV_KIF1C_INPUT1_hub
 longLabel AV_KIF1C_INPUT1_hub
@@ -48,6 +12,7 @@ alwaysZero on
 autoScale on
 aggregate transparentOverlay
 showSubtrackColorOnUi on
+parent AV_KIF1C_INPUT1_hub
 container multiWig
 
     track AV_KIF1C.NPUT1.r-.fqTrTrU-SoMaSoCoSoV2.posbw
